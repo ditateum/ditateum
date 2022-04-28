@@ -1,6 +1,6 @@
 # Hi there, I'm Dita Permata Putra - aka ditateum 👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer, and Teacher!!
 
 - 🔭 I'am a android developer with flutter and website with react, golang, or laravel
 - 🌱 I’m currently learning everything about programming 🤣
